@@ -5,5 +5,5 @@ If you are interested in joining this project please [contact me](mailto:yourtec
 JavaScript Packaging System
 
 ## Documentation ##
-[Publicly Accessible Google Document Outlining jsPod](http://docs.google.com/View?id=a8d7rhxt5w4_25hqpg93f9)
-[Wiki](http://wiki.github.com/joshaven/jspod)
+[Publicly Accessible Google Document Outlining jsPod](http://docs.google.com/View?id=a8d7rhxt5w4_25hqpg93f9)  
+[jsPod Wiki](http://wiki.github.com/joshaven/jspod)  
